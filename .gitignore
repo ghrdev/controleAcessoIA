@@ -1,0 +1,24 @@
+# Ignorar arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+temp.jpg
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Saída desbloqueada (opcional)
+unlocked/
